@@ -164,4 +164,4 @@ docker compose up --build
 
 ## Licencia y atribuciones
 
-Indica aquí tu licencia y responsables del proyecto. Ajusta según tus requisitos de uso académico/industrial.
+Hecho con amor por Manuel Díaz.
